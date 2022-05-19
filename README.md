@@ -1,4 +1,4 @@
-# pension-management
+# pension-management-system
 
 ## The application has the following services:
 
